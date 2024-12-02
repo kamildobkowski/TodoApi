@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kamil/RiderProjects/TodoApi/TodoApi/TodoApi.csproj": {}
+    "/Users/kamil/Documents/GitHub/TodoApi/TodoApi/TodoApi.csproj": {}
   },
   "projects": {
-    "/Users/kamil/RiderProjects/TodoApi/TodoApi/TodoApi.csproj": {
+    "/Users/kamil/Documents/GitHub/TodoApi/TodoApi/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kamil/RiderProjects/TodoApi/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/Users/kamil/Documents/GitHub/TodoApi/TodoApi/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/Users/kamil/RiderProjects/TodoApi/TodoApi/TodoApi.csproj",
+        "projectPath": "/Users/kamil/Documents/GitHub/TodoApi/TodoApi/TodoApi.csproj",
         "packagesPath": "/Users/kamil/.nuget/packages/",
-        "outputPath": "/Users/kamil/RiderProjects/TodoApi/TodoApi/obj/",
+        "outputPath": "/Users/kamil/Documents/GitHub/TodoApi/TodoApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kamil/.nuget/NuGet/NuGet.Config"

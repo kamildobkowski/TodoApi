@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xY8H6aKtQtA9Y0glyNiGU+zRpTBQOg3iq1c/sbW7xIW+wykOIwerOledBy8cKhJEDbc6rWoz+UsQx/TxDDB/lw==",
+  "dgSpecHash": "Pm2fW1QwH3tV1+pxjSAJDpfkpoyeiMaha34T/RP/QlIYHCDxU7FzxKyNgrfQcKwA6ALb3VRMc3WrsTtLk2hawQ==",
   "success": true,
-  "projectFilePath": "/Users/kamil/RiderProjects/TodoApi/TodoApi/TodoApi.csproj",
+  "projectFilePath": "/Users/kamil/Documents/GitHub/TodoApi/TodoApi/TodoApi.csproj",
   "expectedPackageFiles": [
     "/Users/kamil/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/kamil/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
